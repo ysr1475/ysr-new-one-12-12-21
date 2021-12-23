@@ -60,3 +60,20 @@ project1 accepted by Project Build Discarder
 Processing project3
 Offering project3 to Project Build Discarder
 Finished at Thu Dec 23 11:31:25 IST 2021. 14ms
+Started at Thu Dec 23 12:31:25 IST 2021
+Processing job1
+Offering job1 to Project Build Discarder
+Processing job2
+Offering job2 to Project Build Discarder
+Processing job3
+Offering job3 to Project Build Discarder
+Processing job4
+Offering job4 to Project Build Discarder
+Processing job5
+Offering job5 to Project Build Discarder
+Processing project1
+Offering project1 to Project Build Discarder
+project1 accepted by Project Build Discarder
+Processing project3
+Offering project3 to Project Build Discarder
+Finished at Thu Dec 23 12:31:26 IST 2021. 104ms

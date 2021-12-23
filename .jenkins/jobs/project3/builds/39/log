@@ -1,0 +1,20 @@
+Started by an SCM change
+Running as SYSTEM
+Building in workspace C:\ProgramData\Jenkins\.jenkins\workspace\project3
+The recommended git tool is: NONE
+using credential 7721e83f-aa1b-4cd7-ad04-110387df3611
+ > C:\Program Files\Git\bin\git.exe rev-parse --resolve-git-dir C:\ProgramData\Jenkins\.jenkins\workspace\project3\.git # timeout=10
+Fetching changes from the remote Git repository
+ > C:\Program Files\Git\bin\git.exe config remote.origin.url https://github.com/ysr1475/ysr-new-one-12-12-21.git # timeout=10
+Fetching upstream changes from https://github.com/ysr1475/ysr-new-one-12-12-21.git
+ > C:\Program Files\Git\bin\git.exe --version # timeout=10
+ > git --version # 'git version 2.34.1.windows.1'
+using GIT_ASKPASS to set credentials 
+ > C:\Program Files\Git\bin\git.exe fetch --tags --force --progress -- https://github.com/ysr1475/ysr-new-one-12-12-21.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > C:\Program Files\Git\bin\git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+Checking out Revision bd760fcfee1c16dada02f886b4dcbea2f4ac4ffb (refs/remotes/origin/master)
+ > C:\Program Files\Git\bin\git.exe config core.sparsecheckout # timeout=10
+ > C:\Program Files\Git\bin\git.exe checkout -f bd760fcfee1c16dada02f886b4dcbea2f4ac4ffb # timeout=10
+Commit message: "Update s1"
+ > C:\Program Files\Git\bin\git.exe rev-list --no-walk 754659c3064ff4e07a40e52eb57a651823c0c547 # timeout=10
+Finished: SUCCESS

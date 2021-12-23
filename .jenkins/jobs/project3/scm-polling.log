@@ -1,0 +1,13 @@
+Started on 23-Dec-2021, 12:22:58 PM
+Using strategy: Default
+[poll] Last Built Revision: Revision bd760fcfee1c16dada02f886b4dcbea2f4ac4ffb (refs/remotes/origin/master)
+The recommended git tool is: NONE
+using credential 7721e83f-aa1b-4cd7-ad04-110387df3611
+ > C:\Program Files\Git\bin\git.exe --version # timeout=10
+ > git --version # 'git version 2.34.1.windows.1'
+using GIT_ASKPASS to set credentials 
+ > C:\Program Files\Git\bin\git.exe ls-remote -h -- https://github.com/ysr1475/ysr-new-one-12-12-21.git # timeout=10
+Found 1 remote heads on https://github.com/ysr1475/ysr-new-one-12-12-21.git
+[poll] Latest remote head revision on refs/heads/master is: bd760fcfee1c16dada02f886b4dcbea2f4ac4ffb - already built by 39
+Done. Took 1 sec
+No changes

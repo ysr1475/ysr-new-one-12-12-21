@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-12-22 14:23:40.885 UTC</timestamp>
+  <md5sum>f155d00fb2d34365cfd54061c701f883</md5sum>
+  <fileName>Credential id=7721e83f-aa1b-4cd7-ad04-110387df3611 name=yogasudharshan@gmail.com/******</fileName>
+  <usages>
+    <entry>
+      <string>project3</string>
+      <ranges>32-39</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
